@@ -1,4 +1,4 @@
-#Programa que lleva el inventario de alimento y combustible del sistema de aerolinea
+#Programa que lleva el inventario de Alimento y Combustible del sistema de aerolinea
 #Elaborado por: Grupo 4                                            Fecha: 24/09/2022
 ListaProducto=[]
 ListaKardex=[]
